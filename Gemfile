@@ -10,6 +10,8 @@ gem 'jquery-rails'
 gem 'valid_email'
 gem 'bcrypt-ruby', '3.0.1'
 gem 'http_accept_language', '1.0.2'
+gem 'locale_selector'
+
 #gem 'rails_admin'
 
 # More robust webserver

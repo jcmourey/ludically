@@ -1,4 +1,4 @@
-SampleApp::Application.routes.draw do
+Ludically::Application.routes.draw do
   root to: 'static_pages#home'
 
   scope "(/:locale)", locale: /fr|en/ do

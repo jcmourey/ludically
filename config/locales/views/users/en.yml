@@ -3,7 +3,7 @@ en:
   create_account: Create my account
   confirmation: Confirmation
   new_user?: New user?
-  welcome_new_user: "Welcome to the Sample App!"
+  welcome_new_user: Welcome to Ludically!
   users: Users
   account: Account
   profile: Profile

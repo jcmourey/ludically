@@ -3,7 +3,7 @@ fr:
   create_account: Créer mon compte
   confirmation: Confirmation
   new_user?: Nouvel utilisateur ?
-  welcome_new_user: "Bienvenue à l'Application d'Exemple !"
+  welcome_new_user: Bienvenue à Ludically !
   users: Utilisateurs
   account: Compte
   profile: Profil

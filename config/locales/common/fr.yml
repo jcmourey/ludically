@@ -2,8 +2,8 @@
 # See https://github.com/svenfuchs/rails-i18n/tree/master/rails%2Flocale for starting points.
 
 fr:
-  base_title: Ruby on Rails Application d'Exemple du Tutoriel
-  app_name: application d'exemple
+  base_title: Ludically
+  app_name: ludically
   error: erreur
   email: Adresse mail
   password: Mot de passe
