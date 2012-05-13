@@ -1,0 +1,12 @@
+# Models
+# language: en
+
+en:
+  activerecord:
+    models:
+      user: user
+    attributes:
+      user:
+        name: Name
+        password_confirmation: Confirmation
+        password_digest: Password
